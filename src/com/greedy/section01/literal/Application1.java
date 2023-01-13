@@ -14,7 +14,7 @@ public class Application1 {
 		 * */
 		/* 1. 숫자 형태의 값 출력 */
 		/* 1-1. 정수 형태의 값 출력 */
-		System.out.println(123);	//단축키 syso
+		System.out.println(123);	//단축키 syso를 사용
 		
 		/* 1-2. 실수 형태의 값 출력 */
 		System.out.println(1.23);
